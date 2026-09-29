@@ -43,4 +43,4 @@ All core analytical queries can be explored in the [sql/delivery_performance_ana
 `![Dashboard Preview](https://github.com/iam-anjalirawat/Logistics-Delivery-Performance-Analytics/blob/main/Dashboard-Screenshot.png)
 
 ---
-*Created by [Anjali Rawat](https://github.com/your-github-username)*
+*Created by [Anjali Rawat](https://github.com/iam-anjalirawat)*
